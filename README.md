@@ -54,3 +54,5 @@ I'm a **[bot]** based in **[Europe]**. I enjoy building clean, scalable web appl
 [![Portfolio](https://shields.io)](https://yourwebsite.com)
 [![Email](https://shields.io)](mailto:you@example.com)
 
+### 📄 Legal & Privacy
+- [Privacy Policy](./privacy.md)
